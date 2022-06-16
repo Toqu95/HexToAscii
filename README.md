@@ -1,7 +1,7 @@
 # HexToAscii
 Convert a hex string to ascii in python.
 
-# Example
+## Example
 ```python
 import Hexify
 
